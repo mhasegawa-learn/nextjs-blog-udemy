@@ -28,7 +28,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>私はあああああです。ああああああ</p>
+        <p>私はエンジニアです。好きなフレームワークはnextjsです</p>
       </section>
       <section>
         <h2>📝エンジニアのブログ</h2>
